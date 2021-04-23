@@ -1,5 +1,16 @@
 
-
+  $my-color: green;
   body {
       background-color: darkgoldenrod;
+
+    div.container {
+
+      div.row {
+
+        h1, .par1, .par2, .btn1, .btn2 {
+          color: $my-color;
+        }
+
+      }
+    }
   }
