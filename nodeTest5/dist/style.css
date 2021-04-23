@@ -1,0 +1,6 @@
+body {
+  background-color: darkgoldenrod;
+}
+body div.container div.row h1, body div.container div.row .par1, body div.container div.row .par2, body div.container div.row .btn1, body div.container div.row .btn2 {
+  color: green;
+}
